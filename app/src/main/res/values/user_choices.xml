@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_choices">
+    <item>Mass</item>
+    <item>Length</item>
+</string-array>
+    <string-array name="length_user_choices">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Nautical Mile</item>
+    </string-array>
+    <string-array name="mass_user_choices">
+        <item>Tonne</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Microgram</item>
+        <item>Imperial Ton</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+</resources>
